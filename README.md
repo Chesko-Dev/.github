@@ -1,4 +1,3 @@
-# .github
 <h1 align="center">Ola Olaa, Im Chesko Dev</h1>
 <h3 align="center">This is the public github for Chesko Dev Channel</h3>
 
