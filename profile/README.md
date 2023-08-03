@@ -1,13 +1,13 @@
 <h1 align="center">Ola Olaa, Im Chesko Dev</h1>
-<h3 align="center">This is the public github for Chesko Dev Channel</h3>
+<h3 align="center">Im not sure what the f im doin haha</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheskoxd&label=Visits&color=1b27d0&style=flat" alt="cheskoxd" /> </p>
 
-- 🔭 Here you can find the repos for our tutorials [in our channel!](https://www.youtube.com/@cheskodev)
+- 🔭 Here you can find [sh*t](https://www.youtube.com/@cheskodev)
 
 - 📫 How to reach me **chesko.dev@gmail.com**
 
-- ⚡ Fun fact **I love coffee with a ton of sugar**
+- ⚡ Fun fact **I haven't sleep in a week plz send help**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
